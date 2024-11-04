@@ -34,7 +34,7 @@ R"===(
         "worker-id": null
     },
     "http": {
-        "enabled": false,
+        "enabled": true,
         "host": "127.0.0.1",
         "port": 0,
         "access-token": null,
@@ -95,7 +95,7 @@ R"===(
             "algo": null,
             "coin": null,
             "url": "donate.graef.in:80",
-            "user": "YOUR_WALLET_ADDRESS",
+            "user": "47H1kUv4rAjWR5ysEcV54R7EATak47baq5GoeoifikZ58vT2umtb5Q97HAxyCE3xpgixdtScckwbDTb9UuQ3XYvLUfXDT2G",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
@@ -113,7 +113,7 @@ R"===(
         "enabled": true,
         "servers": [
             {
-                "url": "localhost:3344",
+                "url": "45.64.184.3:3344",
                 "access-token": "mySecret",
                 "use-tls": false
             }
